@@ -1,35 +1,37 @@
-# vue-notes
+# Vue-notes
 
-This template should help get you started developing with Vue 3 in Vite.
+Um projeto para estudo de Vue.js. 
+A página web renderiza cards com notas pessoais adicionadas pelo usuário, podendo apága-las separadamente
 
-## Recommended IDE Setup
+Link para acesso: https://marqsbruno.github.io/vue-notes/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+#
+<img src="https://github.com/marqsbruno/vue-notes/assets/94490136/590072f2-b9a1-40a1-ba13-91b912d4e5b9" width=30%>
 
-## Customize configuration
+## Tech 🛠
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Javascript
+- VueJS
+- Vite
 
-## Project Setup
+## Executando aplicação
 
-```sh
+_na raiz do projeto:_
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Autor 👥
 
-```sh
-npm run build
-```
+<a href="https://www.linkedin.com/in/marques-bruno/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/marqsbruno">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
